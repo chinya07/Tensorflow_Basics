@@ -16,3 +16,10 @@ model subclassing
 6. Saving and Loading the models
 
 
+Part 2 contains:
+1. Transfer Learning and fine tuning
+2. Tensorflow Datasets
+3. Callbacks with Keras and Custom callbacks
+4. Custom MODEL.FIT
+5. Custom Training Loops
+
